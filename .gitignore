@@ -16,7 +16,6 @@ public_html/storage
 public_html/hot
 
 storage/*.key
-.env
 Homestead.yaml
 Homestead.json
 /.vagrant
@@ -37,7 +36,7 @@ auth.json
 /storage/*.key
 /storage/pail
 /vendor
-.env
+
 .env.backup
 .env.production
 .phpactor.json
